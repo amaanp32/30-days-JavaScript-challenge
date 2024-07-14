@@ -64,8 +64,8 @@ console.log(arrOne >= 25 || arrTwo <= 30);
 let isLoggedIn = true
 console.log(!isLoggedIn);
 
-// 
-//
+//Activity 5: Ternary Operator 
+//Task-14
 let age = 20;
 let beverage = age >= 21 ? "Beer" : "Juice";
 console.log(beverage); 
