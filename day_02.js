@@ -6,16 +6,16 @@ let val2 = 12;
 console.log(`Addition of ${val1} + ${val2} is "${val1 + val2}"`)
 
 //Substraction of val1 and val2
-console.log(`Subtraction of ${val1} + ${val2} is "${val1 - val2}"`)
+console.log(`Subtraction of ${val1} - ${val2} is "${val1 - val2}"`)
 
 //Multiplication of val1 and val2
-console.log(`Multiplication of ${val1} + ${val2} is "${val1 * val2}"`)
+console.log(`Multiplication of ${val1} * ${val2} is "${val1 * val2}"`)
 
 //Division of val1 and val2 
-console.log(`Division of ${val1} + ${val2} is "${val1 / val2}"`)
+console.log(`Division of ${val1} / ${val2} is "${val1 / val2}"`)
 
 // Modulus of val1 and val2 
-console.log(`Modulus of ${val1} + ${val2} is "${val1 % val2}"`)
+console.log(`Modulus of ${val1} % ${val2} is "${val1 % val2}"`)
 
 
 //Activity 2:Assignment Operators
