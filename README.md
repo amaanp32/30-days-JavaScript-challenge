@@ -1,3 +1,3 @@
 # 30-days-JavaScript-challenge
-# Day One Completed 
-# Day Two Completed
+# Day One Variables and data types (Completed) 
+# Day Two Operators (Completed) 
